@@ -1,5 +1,5 @@
 # -Students-Academic-Record-Analysis
-A collection of charts analyzing student performance across different subjects, genders, and assessment types for creating friendly competition in class.
+A collection of charts analyzing student performance across different subjects & genders for creating friendly competition in class.
 ## 1️⃣ Gender-Based Performance Comparison
 
 
