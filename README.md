@@ -14,3 +14,5 @@ A collection of charts analyzing student performance across different subjects &
 - Boys perform better in **Science** and **Mathematics**.
 - Girls outperform in other subjects.
 - Useful for creating friendly competition in class.
+
+- SQL & BI
